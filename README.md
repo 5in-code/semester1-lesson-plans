@@ -3,7 +3,7 @@
 * Basic HTML
 * Basic CSS
 * JavaScript variables and data types
-* [JavaScript Objects](04-objects.md)
-* [Dark/Light Mode: First DOM JavaScript](05-dom.md)
+* JavaScript Objects - 04-objects.md
+* Dark/Light Mode: First DOM JavaScript - 05-dom.md
 * [Version Control System: Git](06-vcs.md)
 * …
