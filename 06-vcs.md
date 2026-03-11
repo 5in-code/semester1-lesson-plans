@@ -36,8 +36,8 @@
 
 6. Introduce remote repository concept
    1. Review "commit" concept.
-   2. "Repository" means storehouse, container
-   3. Introduce "remote" repository, push, pull
+   2. "Repository" means storehouse, container. Repository is a container for snapshots (commits).
+   3. Introduce "remote" repository, push, pull. Local repository (container) on your computer vs. Github repository (on someone else’s computer)
 
 7. Push to GitHub
    1. Click `…` button next to SOURCE CONTROL and show "Repositories".
