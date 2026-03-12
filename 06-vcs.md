@@ -1,10 +1,25 @@
 # Git Version Control
 
 1. Install software
-   1. Sign up for GitHub
-   2. Install Git
-      - Use "main" as the default branch
-   3. Install GitKraken
+   1. Sign up for GitHub.
+   2. __Install Git.__
+      - Double-click the "Git-2.53.0.2" icon (the number may be larger than 2.53).
+      - Click "Next" button until you see "Choosing the default editor used by Git".
+      - For the option "Choosing the default editor used by Git":
+        - Choose the option "Use Visual Studio Code as Git's default editor".
+        - Click "Next".
+      - For the option "Adjusting the name of the initial branch in new repositories":
+        - Choose the second option, "Override the default branch name for new repositories".
+        - Click "Next".
+      - Click "Next" until you see the "Install" button.
+      - Click "Install".
+      - Uncheck the "View Release Notes" checkbox.
+      - Click "Finish".
+      - In VS Code, click the "Source Control" button on the left-side Activity Bar; it's just below the Search button.
+      - If you see a "Download Git for Windows" button, click the "reload" link just below that button.
+   3. __Install GitKraken.__
+      - Double-click the "GitKrakenSetup" icon.
+      -
    4. In GitKraken, configure name and email.
    5. Configure VS Code
 
